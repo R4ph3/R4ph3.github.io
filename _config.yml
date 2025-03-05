@@ -1,8 +1,8 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Kernel_panic Blog
+description: "Blog sobre ciberseguridad, hacking, malware y mucho mas"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
+  name: "Kernel_panic"
+  email: ""
   url: "https://ashishchaudhary.in/hacker-blog"
 
 baseurl: /
